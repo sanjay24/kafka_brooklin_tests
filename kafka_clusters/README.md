@@ -5,4 +5,4 @@ docker-compose start
 docker-compose ps
 ```
 
-Repeate for cluster_2
+Repeat for cluster_2
